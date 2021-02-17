@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am emmo, nice to meet you 😄
 <!--
 **coded1guy/coded1guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
