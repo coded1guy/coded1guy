@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align='center'>Hi there 👋🏾</h1>
 <h3 align="center"> I am emmo, nice to meet you 😄</h3>
+<br>
 <p align='center'>I am a Junior Frontend Engineer focused on (HTML, CSS, tailwindcss, JavaScript, Vuejs)</p>
 
 <p align='center'>
