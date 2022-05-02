@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="mailto:grggmmnl@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <!--<img src="https://avatars1.githubusercontent.com/u/42422184?s=400&u=64d77ccd4b38943b7611e9361ae832726050234d&v=4" />-->
+  <img src="https://avatars1.githubusercontent.com/u/42422184?s=400&u=64d77ccd4b38943b7611e9361ae832726050234d&v=4" />
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=coded1guy&show_icons=true&theme=tokyonight&line_height=27">
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
  
 <!--
 <p align='center'>
-<a href="https://stackoverflow.com/users/10612336/iamnotstatic"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
+<a href=""><img src="" width="208" height="58" alt="" title=""></a>&nbsp;&nbsp;
 </p>
 -->
