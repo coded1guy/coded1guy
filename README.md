@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <p align='center'>
-    <img src="https://avatars1.githubusercontent.com/u/42422184?s=400&u=64d77ccd4b38943b7611e9361ae832726050234d&v=4" width="300" height="300" style="border-radius: 50%;" />
-  </p>
-  <p align='center'>
     <a href="https://wa.me/2348116604581?text=Hello emmo" target="_blank">
       <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>&nbsp;&nbsp;
