@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align='center'>
-  <img src = "https://github-readme-stats.vercel.app/api?username=coded1guy&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coded1guy&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=coded1guy&show_icons=true&theme=tokyonight&line_height=27"><br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coded1guy&theme=tokyonight"><br>
   <img src= "https://github-readme-streak-stats.herokuapp.com?user=coded1guy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
     
