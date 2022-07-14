@@ -35,8 +35,9 @@ Here are some ideas to get you started:
     </a>&nbsp;&nbsp;
   </p>
   <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=coded1guy&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coded1guy&hide=css,ruby,html&theme=tokyonight">
+  [![T-Stark's GitHub stats](https://github-readme-stats.vercel.app/api?username=coded1guy&show_icons=true&theme=tokyonight)](https://github.com/coded1guy/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coded1guy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coded1guy&theme=tokyonight)
 </p>
 </p>
  
