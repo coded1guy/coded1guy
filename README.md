@@ -34,13 +34,11 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
   </p>
-  <p align = "center">
-    [![emmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=coded1guy&show_icons=true&theme=tokyonight)](https://github.com/coded1guy/github-readme-stats)
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coded1guy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coded1guy&theme=tokyonight)
-  </p>
 </p>
- 
+[![emmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=coded1guy&show_icons=true&theme=tokyonight)](https://github.com/coded1guy/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coded1guy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coded1guy&theme=tokyonight)
+    
 <!--
 <p align='center'>
 <a href=""><img src="" width="208" height="58" alt="" title=""></a>&nbsp;&nbsp;
