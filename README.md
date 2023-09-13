@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 <h1 align='center'>Hi there 👋🏾</h1>
 <h3 align="center"> I am emmo, nice to meet you 😄</h3>
 <br>
-<p align='center'>I am an intermediate Frontend Engineer focused on (HTML, CSS, tailwindcss, JavaScript, VueJS, ReactJS, Python)</p>
+<p align='center'>
+  I am a Software Engineer with 3 years of experience developing fully responsive and performant websites and web apps.
+</p>
+<h3>Technical Skills:</h3>
+<p><strong>Web dev:</strong> HTML, CSS.</p>
+<p><strong>Programming languages:</strong> JS, TS, Python, PHP, and C.</p>
+<p><strong>Frameworks/Library:</strong> SASS, TailwindCSS, React, Vue, Next, Nuxt, Express, and Django.</p>
 
 <p align='center'>
   <p align='center'>
