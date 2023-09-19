@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <p align='center'>
   I am a Software Engineer with 3 years of experience developing fully responsive and performant websites and web apps.
 </p>
+
+!["Profile Views"](https://komarev.com/ghpvc/?username=coded1guy&label=Profile%20views&color=0e75b6&style=flat "Profile Views")
+
 <h3>Technical Skills:</h3>
 <p><strong>Web dev:</strong> HTML, CSS.</p>
 <p><strong>Programming languages:</strong> JS, TS, Python, PHP, and C.</p>
@@ -48,8 +51,5 @@ Here are some ideas to get you started:
   <img src= "https://github-readme-streak-stats.herokuapp.com?user=coded1guy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
     
-<!--
-<p align='center'>
-<a href=""><img src="" width="208" height="58" alt="" title=""></a>&nbsp;&nbsp;
-</p>
--->
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=coded1guy&theme=onedark&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=coded1guyh&theme=onedark&margin-w=15&margin-h=15)
