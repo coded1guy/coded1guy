@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <h3 align="center"> I am emmo, nice to meet you 😄</h3>
 <br>
 <p align='center'>
-  I am a Software Engineer with 3 years of experience developing fully responsive and performant websites and web apps.
+  I am a Software Engineer with 4 years of professional experience developing fully responsive and performant websites and web apps.
 </p>
 
 !["Profile Views"](https://komarev.com/ghpvc/?username=coded1guy&label=Profile%20views&color=0e75b6&style=flat "Profile Views")
 
 <h3>Technical Skills:</h3>
 <p><strong>Web dev:</strong> HTML, CSS.</p>
-<p><strong>Programming languages:</strong> JS, TS, Python, PHP, and C.</p>
+<p><strong>Programming languages:</strong> JavaScript, TypeScript, Python, PHP, and C.</p>
 <p><strong>Frameworks/Library:</strong> SASS, TailwindCSS, React, Vue, Next, Nuxt, Express, and Django.</p>
 
 <p align='center'>
@@ -45,11 +45,6 @@ Here are some ideas to get you started:
   </p>
 </p>
 <br>
-<p align='center'>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coded1guy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coded1guy&layout=compact&langs_count=8&theme=tokyonight"><br>
-  <img src= "https://github-readme-streak-stats.herokuapp.com?user=coded1guy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</p>
     
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=coded1guy&theme=onedark&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=coded1guyh&theme=onedark&margin-w=15&margin-h=15)
